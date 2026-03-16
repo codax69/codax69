@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pritesh+Patel+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;IoT+Enthusiast+%F0%9F%94%8C;Always+Learning+%F0%9F%8C±" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hey, I'm Pritesh Patel</h1>
+<h3 align="center">🚀 Full Stack Developer &nbsp;|&nbsp; 🔌 IoT Enthusiast &nbsp;|&nbsp; 🌱 Always Learning</h3>
 
 <p align="center">
   <a href="https://github.com/codax69">
