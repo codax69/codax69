@@ -25,7 +25,7 @@ const pritesh = {
   username:   "codax69",
   location:   "Valsad, Gujarat, India 🇮🇳",
   role:       "Full Stack Developer & IoT Enthusiast",
-  learning:   ["Fullstack Development", "Web Apps", "IoT Systems"],
+  learning:   ["Fullstack Development", "Web Apps", "IoT Systems","React Native"],
   interests:  ["Web Development", "Smart Systems", "Open Source"],
   contact:    "prit9265@gmail.com",
   motto:      "Build. Break. Learn. Repeat. 🔁"
